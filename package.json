@@ -1,0 +1,19 @@
+{
+  "name": "eriksen-charts",
+  "version": "1.0.0",
+  "description": "Honestly, just a way to practice + implement canvasJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baileedastugue/eriksen-charts.git"
+  },
+  "author": "Bailee Dastugue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baileedastugue/eriksen-charts/issues"
+  },
+  "homepage": "https://github.com/baileedastugue/eriksen-charts#readme"
+}
